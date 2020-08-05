@@ -1,0 +1,26 @@
+spring:
+  cloud:
+    config:
+      server:
+        bootstrap: true
+        native:
+          searchLocations: file:./config
+
+eureka:
+  instance:
+    hostname: localhost
+
+  client:
+    serviceUrl:
+      defaultZone: http://${eureka.instance.hostname}:10000/eureka/
+
+#management:
+#  security:
+#    enable: false
+##禁用管理安全策略
+management:
+  security:
+    enabled: false
+security:
+  basic:
+    enabled: false
