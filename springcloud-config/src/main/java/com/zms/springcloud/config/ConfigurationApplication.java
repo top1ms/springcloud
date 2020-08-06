@@ -1,7 +1,6 @@
 package com.zms.springcloud.config;
 
 
-import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.config.server.EnableConfigServer;
@@ -19,13 +18,6 @@ public class ConfigurationApplication {
 
     }
 
-    public class Zms{
-        @Value("${spring.cloud.config.server.prefix:12}")
-        private String name;
 
-        public String getName() {
-            return name;
-        }
-    }
 
 }

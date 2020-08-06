@@ -16,4 +16,6 @@ public class SpringCloudRegistryConfigurationApplication {
         ConfigurableApplicationContext applicationContext=SpringApplication.run(SpringCloudRegistryConfigurationApplication.class);
         applicationContext.getEnvironment().getProperty("ss");
     }
+
+
 }

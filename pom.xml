@@ -22,6 +22,7 @@
         <module>springcloud-client</module>
         <module>springcloud-config</module>
         <module>springcloud-rigistryConfiguration</module>
+        <module>springcloud-gateway</module>
     </modules>
 
 
@@ -53,7 +54,6 @@
     <build>
         <pluginManagement>
             <plugins>
-                <!--控制项目的language level和compile 版本-->
                 <plugin>
                     <groupId>org.apache.maven.plugins</groupId>
                     <artifactId>maven-compiler-plugin</artifactId>

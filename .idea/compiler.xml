@@ -6,11 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="springcloud-client" />
         <module name="springcloud-registry" />
+        <module name="provider-two" />
         <module name="springcloud-config" />
+        <module name="springcloud-zuul" />
+        <module name="consumer-one" />
         <module name="springcloud-rigistryConfiguration" />
+        <module name="consumer-two" />
+        <module name="provider-one" />
       </profile>
     </annotationProcessing>
+
   </component>
 </project>
