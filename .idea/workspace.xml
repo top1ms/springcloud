@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d1ba201-7aee-40b5-a32b-d715c0601a2b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-gateway/springcloud-zuul/springcloud-zuul.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-client/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-client/src/main/java/com/zms/springcloud/client/SpringCloudClientApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-client/src/main/java/com/zms/springcloud/client/Zms.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-client/src/main/resources/bootstrap-native.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-client/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-config/src/main/java/com/zms/springcloud/config/ConfigurationApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-config/src/main/java/com/zms/springcloud/config/ConfigurationApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-registry/src/main/java/com/zms/springcloud/registryConfiguration/SpringCloudRegistryConfigurationApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-registry/src/main/java/com/zms/springcloud/registryConfiguration/SpringCloudRegistryConfigurationApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-rigistryConfiguration/src/main/java/com/zms/springcloud/registryConfiguration/RegistryConfigApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-rigistryConfiguration/src/main/java/com/zms/springcloud/registryConfiguration/RegistryConfigApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-rigistryConfiguration/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-rigistryConfiguration/src/main/resources/bootstrap.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="springcloud" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="top1ms &lt;top1zms@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$" />
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fLejQBI3oMLP5qC90SdEZOlHg9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JavaMethodFindUsagesOptions.isOverridingMethods" value="true" />
+    <property name="JavaMethodFindUsagesOptions.isSearchForTextOccurrences" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/springcloud-client" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3254717" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/springcloud-client" />
+      <recent name="$PROJECT_DIR$/springcloud-client/src/main/resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/springcloud-client" />
+      <recent name="$PROJECT_DIR$/springcloud-rigistryConfiguration/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="Application" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SpringCloudRegistryConfigurationApplication">
+    <configuration name="ConfigurationApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zms.springcloud.config.ConfigurationApplication" />
+      <module name="springcloud-config" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zms.springcloud.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistryConfigApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zms.springcloud.registryConfiguration.RegistryConfigApplication" />
+      <module name="springcloud-rigistryConfiguration" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zms.springcloud.registryConfiguration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudRegistryConfigurationApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <envs>
+        <env name="spring.profiles.active" value="native" />
+        <env name="spring.application.name" value="service-center" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="com.zms.springcloud.registryConfiguration.SpringCloudRegistryConfigurationApplication" />
+      <module name="springcloud-registry" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zms.springcloud.registryConfiguration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ConfigurationApplication" />
+      <item itemvalue="Application.SpringCloudRegistryConfigurationApplication" />
+      <item itemvalue="Application.RegistryConfigApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RegistryConfigApplication" />
+        <item itemvalue="Application.SpringCloudRegistryConfigurationApplication" />
+        <item itemvalue="Application.ConfigurationApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.26423958" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Application" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Application" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d1ba201-7aee-40b5-a32b-d715c0601a2b" name="Default Changelist" comment="" />
+      <created>1596001934570</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596001934570</updated>
+      <workItem from="1596001937407" duration="36888000" />
+      <workItem from="1596110488150" duration="97406000" />
+      <workItem from="1596678338074" duration="4499000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="522" y="127" key="#ConfigServerApplication" timestamp="1596592458069">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="522" y="127" key="#ConfigServerApplication/0.23.1792.1017@0.23.1792.1017" timestamp="1596592458069" />
+    <state x="522" y="127" key="#ConfigServerApplication_(1)" timestamp="1596592446464">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="522" y="127" key="#ConfigServerApplication_(1)/0.23.1792.1017@0.23.1792.1017" timestamp="1596592446464" />
+    <state x="396" y="116" key="#Notifications" timestamp="1596456844483">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="396" y="116" key="#Notifications/0.23.1792.1017@0.23.1792.1017" timestamp="1596456844483" />
+    <state x="396" y="116" width="1212" height="831" key="#Project_Structure" timestamp="1596682451353">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="396" y="116" width="1212" height="831" key="#Project_Structure/0.23.1792.1017@0.23.1792.1017" timestamp="1596682451353" />
+    <state x="281" y="353" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596680462636">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="281" y="353" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1596680462636" />
+    <state x="591" y="327" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596085611594">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="591" y="327" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1792.1017@0.23.1792.1017" timestamp="1596085611594" />
+    <state x="665" y="182" key="#com.intellij.ide.util.MemberChooser" timestamp="1596085511496">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="665" y="182" key="#com.intellij.ide.util.MemberChooser/0.23.1792.1017@0.23.1792.1017" timestamp="1596085511496" />
+    <state x="398" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1596609618600">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="398" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1596609618600" />
+    <state x="443" y="367" width="1079" height="673" key="#xdebugger.evaluate" timestamp="1596678825852">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="443" y="367" width="1079" height="673" key="#xdebugger.evaluate/0.23.1792.1017@0.23.1792.1017" timestamp="1596678825852" />
+    <state x="283" y="68" key="CommitChangelistDialog2" timestamp="1596683035449">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="283" y="68" key="CommitChangelistDialog2/0.23.1792.1017@0.23.1792.1017" timestamp="1596683035449" />
+    <state width="682" height="582" key="DebuggerActiveHint" timestamp="1596678872423">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="569" height="641" key="DebuggerActiveHint/0.0.1792.1120@0.0.1792.1120" timestamp="1596177849673" />
+    <state width="682" height="582" key="DebuggerActiveHint/0.23.1792.1017@0.23.1792.1017" timestamp="1596678872423" />
+    <state x="100" y="123" width="1592" height="817" key="DiffContextDialog" timestamp="1596542040572">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="100" y="123" width="1592" height="817" key="DiffContextDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1596542040572" />
+    <state x="513" y="441" key="EnvironmentVariablesDialog" timestamp="1596598819221">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="513" y="441" key="EnvironmentVariablesDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1596598819221" />
+    <state x="739" y="415" key="Github.ShareDialog" timestamp="1596609688618">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="739" y="415" key="Github.ShareDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1596609688618" />
+    <state x="479" y="181" key="Github.UntrackedFilesDialog" timestamp="1596609700574">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="479" y="181" key="Github.UntrackedFilesDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1596609700574" />
+    <state width="1740" height="263" key="GridCell.Tab.0.bottom" timestamp="1596682992756">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1436" height="460" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1596179399234" />
+    <state width="1740" height="263" key="GridCell.Tab.0.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1596682992756" />
+    <state width="1740" height="263" key="GridCell.Tab.0.center" timestamp="1596682992755">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1436" height="460" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1596179399232" />
+    <state width="1740" height="263" key="GridCell.Tab.0.center/0.23.1792.1017@0.23.1792.1017" timestamp="1596682992755" />
+    <state width="1740" height="263" key="GridCell.Tab.0.left" timestamp="1596682992755">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1436" height="460" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1596179399229" />
+    <state width="1740" height="263" key="GridCell.Tab.0.left/0.23.1792.1017@0.23.1792.1017" timestamp="1596682992755" />
+    <state width="1740" height="263" key="GridCell.Tab.0.right" timestamp="1596682992756">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1436" height="460" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1596179399233" />
+    <state width="1740" height="263" key="GridCell.Tab.0.right/0.23.1792.1017@0.23.1792.1017" timestamp="1596682992756" />
+    <state width="1252" height="258" key="GridCell.Tab.1.bottom" timestamp="1596679851563">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1436" height="460" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1596179399235" />
+    <state width="1252" height="258" key="GridCell.Tab.1.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1596679851563" />
+    <state width="1252" height="258" key="GridCell.Tab.1.center" timestamp="1596679851562">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1436" height="460" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1596179399234" />
+    <state width="1252" height="258" key="GridCell.Tab.1.center/0.23.1792.1017@0.23.1792.1017" timestamp="1596679851562" />
+    <state width="1252" height="258" key="GridCell.Tab.1.left" timestamp="1596679851562">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1436" height="460" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1596179399234" />
+    <state width="1252" height="258" key="GridCell.Tab.1.left/0.23.1792.1017@0.23.1792.1017" timestamp="1596679851562" />
+    <state width="1252" height="258" key="GridCell.Tab.1.right" timestamp="1596679851562">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1436" height="460" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1596179399235" />
+    <state width="1252" height="258" key="GridCell.Tab.1.right/0.23.1792.1017@0.23.1792.1017" timestamp="1596679851562" />
+    <state x="481" y="184" key="RollbackChangesDialog" timestamp="1596679871922">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="481" y="184" key="RollbackChangesDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1596679871922" />
+    <state x="296" y="23" key="SettingsEditor" timestamp="1596008037228">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="296" y="23" key="SettingsEditor/0.23.1792.1017@0.23.1792.1017" timestamp="1596008037228" />
+    <state x="396" y="208" key="Vcs.Push.Dialog.v2" timestamp="1596682970768">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="396" y="208" key="Vcs.Push.Dialog.v2/0.23.1792.1017@0.23.1792.1017" timestamp="1596682970768" />
+    <state x="517" y="325" key="com.intellij.ide.util.TipDialog" timestamp="1596678338095">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="517" y="325" key="com.intellij.ide.util.TipDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1596678338095" />
+    <state x="281" y="215" width="1208" height="715" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1596634203076">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="281" y="211" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1792.1120@0.0.1792.1120" timestamp="1596172900373" />
+    <state x="281" y="215" width="1208" height="715" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1792.1017@0.23.1792.1017" timestamp="1596634203076" />
+    <state x="509" y="244" width="1244" height="574" key="find.popup" timestamp="1596596721190">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="509" y="244" width="1244" height="574" key="find.popup/0.23.1792.1017@0.23.1792.1017" timestamp="1596596721190" />
+    <state x="172" y="151" key="new project wizard" timestamp="1596682309620">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="172" y="151" key="new project wizard/0.23.1792.1017@0.23.1792.1017" timestamp="1596682309620" />
+    <state x="477" y="23" width="838" height="1017" key="search.everywhere.popup" timestamp="1596681551578">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="477" y="0" width="838" height="1120" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1596178953747" />
+    <state x="477" y="23" width="838" height="1017" key="search.everywhere.popup/0.23.1792.1017@0.23.1792.1017" timestamp="1596681551578" />
+    <state x="647" y="170" key="svn.repositoryBrowser" timestamp="1596609669619">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="647" y="170" key="svn.repositoryBrowser/0.23.1792.1017@0.23.1792.1017" timestamp="1596609669619" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-config-server/1.4.2.RELEASE/spring-cloud-config-server-1.4.2.RELEASE-sources.jar!/org/springframework/cloud/config/server/environment/JGitEnvironmentRepository.java</url>
+          <line>378</line>
+          <option name="timeStamp" value="318" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-config-server/1.4.2.RELEASE/spring-cloud-config-server-1.4.2.RELEASE-sources.jar!/org/springframework/cloud/config/server/environment/JGitEnvironmentRepository.java</url>
+          <line>321</line>
+          <option name="timeStamp" value="323" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-config-server/1.4.2.RELEASE/spring-cloud-config-server-1.4.2.RELEASE-sources.jar!/org/springframework/cloud/config/server/resource/ResourceController.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="326" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-config-server/1.4.2.RELEASE/spring-cloud-config-server-1.4.2.RELEASE-sources.jar!/org/springframework/cloud/config/server/resource/ResourceController.java</url>
+          <line>85</line>
+          <option name="timeStamp" value="327" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-config-server/1.4.2.RELEASE/spring-cloud-config-server-1.4.2.RELEASE-sources.jar!/org/springframework/cloud/config/server/resource/ResourceController.java</url>
+          <line>92</line>
+          <option name="timeStamp" value="328" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-config-server/1.4.2.RELEASE/spring-cloud-config-server-1.4.2.RELEASE-sources.jar!/org/springframework/cloud/config/server/resource/ResourceController.java</url>
+          <line>103</line>
+          <option name="timeStamp" value="329" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.11.RELEASE/spring-context-4.3.11.RELEASE-sources.jar!/org/springframework/context/annotation/ConfigurationClassPostProcessor.java</url>
+          <line>305</line>
+          <option name="timeStamp" value="409" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-context/1.3.2.RELEASE/spring-cloud-context-1.3.2.RELEASE-sources.jar!/org/springframework/cloud/autoconfigure/ConfigurationPropertiesRebinderAutoConfiguration.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="413" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.11.RELEASE/spring-beans-4.3.11.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java</url>
+          <line>450</line>
+          <option name="timeStamp" value="473" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-context/1.3.2.RELEASE/spring-cloud-context-1.3.2.RELEASE-sources.jar!/org/springframework/cloud/bootstrap/BootstrapApplicationListener.java</url>
+          <line>173</line>
+          <option name="timeStamp" value="475" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-context/1.3.2.RELEASE/spring-cloud-context-1.3.2.RELEASE-sources.jar!/org/springframework/cloud/bootstrap/BootstrapApplicationListener.java</url>
+          <line>184</line>
+          <option name="timeStamp" value="476" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.7.0/eureka-client-1.7.0-sources.jar!/com/netflix/discovery/DiscoveryClient.java</url>
+          <line>859</line>
+          <option name="timeStamp" value="492" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
