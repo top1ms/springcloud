@@ -16,6 +16,6 @@
         <module name="provider-one" />
       </profile>
     </annotationProcessing>
-
+    <bytecodeTargetLevel target="8" />
   </component>
 </project>

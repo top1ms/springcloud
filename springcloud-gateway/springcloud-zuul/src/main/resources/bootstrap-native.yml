@@ -1,7 +1,7 @@
 spring:
   cloud:
     config:
-      name: mybatis
+      name: gateway
       profile: native
       label: master
       discovery:
@@ -10,6 +10,5 @@ spring:
 
 eureka:
   client:
-    initialInstanceInfoReplicationIntervalSeconds: 1
     serviceUrl:
       defaultZone: http://127.0.0.1:10000/eureka
