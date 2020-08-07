@@ -1,0 +1,15 @@
+spring:
+  cloud:
+    config:
+      name: mybatis
+      profile: native
+      label: master
+      discovery:
+        enabled: true
+        service-id: service-center
+
+eureka:
+  client:
+    initialInstanceInfoReplicationIntervalSeconds: 1
+    serviceUrl:
+      defaultZone: http://127.0.0.1:10000/eureka

@@ -1,0 +1,17 @@
+server:
+  port:
+    1000
+spring:
+   application:
+     name: provider-one
+   profiles :
+     active : native
+
+
+
+
+
+
+
+
+
