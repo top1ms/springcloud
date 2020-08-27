@@ -14,12 +14,12 @@ eureka:
   client:
     serviceUrl:
       defaultZone: http://localhost:10000/eureka
+
+      
 dubbo:
   application:
-    name:  dubbo-provider
+    name:  dubbo-consumer
     version: 1.0.0
-  provider:
-    port: 4444
 
   protocal:
     host: 127.0.0.1

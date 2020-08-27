@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="common-api" />
         <module name="springcloud-registry" />
         <module name="provider-two" />
         <module name="springcloud-config" />
@@ -16,6 +17,9 @@
         <module name="provider-one" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="8" />
+    <bytecodeTargetLevel target="8">
+      <module name="springcloud-dubbo" target="1.8" />
+      <module name="springcloud-dubbo-provider-one" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

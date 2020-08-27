@@ -3,32 +3,16 @@ spring:
     name: service-center
   profiles:
     active: native
-  cloud:
-    config:
-      server:
-        prefix: /config
-        bootstrap: true
-        native:
-          searchLocations: file:./config
+#  cloud:
+#    config:
+#      server:
+#        prefix: /config
+#        bootstrap: true
+#        native:
+#          searchLocations: file:./config
 server:
   port: 10000
 
 
 
-
-eureka:
-  instance:
-    hostname: localhost
-  client:
-    registerWithEureka: true
-    fetchRegistry: false
-    initialInstanceInfoReplicationIntervalSeconds: 1000
-    serviceUrl:
-      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
-
-
-
-management:
-  security:
-    enable: false
 

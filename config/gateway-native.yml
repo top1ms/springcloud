@@ -11,6 +11,7 @@ zuul:
   ignoredHeaders: x-application-context
   routes:
     provider-one: /api/provider/one/**
+    consumer-one: /api/consumer/one/**
     # 服务管理配置
 #    p2p-sm-registry:
 #      path: /sm/registry/**

@@ -4,6 +4,7 @@ spring:
       name: gateway
       profile: native
       label: master
+#      url: http://dubbo.vipgz4.idcfengye.come/config
       discovery:
         enabled: true
         service-id: service-center
@@ -11,4 +12,7 @@ spring:
 eureka:
   client:
     serviceUrl:
-      defaultZone: http://127.0.0.1:10000/eureka
+      defaultZone: http://localhost:10000/eureka
+
+provider-one:
+  ServerListRefreshInterval: 5000

@@ -1,6 +1,6 @@
 server:
   port:
-    1000
+    1001
 spring:
    application:
      name: provider-one

@@ -1,10 +1,17 @@
 server:
   port:
-    1000
+    10100
 spring:
    application:
-     name: provider-one
+     name: consumer-one
    profiles :
      active : native
+
+
+
+
+
+
+
 
 

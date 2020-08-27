@@ -9,6 +9,8 @@ spring:
         service-id: service-center
 
 eureka:
+  instance:
+    preferIpAddress: true
   client:
     serviceUrl:
-      defaultZone: http://127.0.0.1:10000/eureka
+      defaultZone: http://localhost:10000/eureka
