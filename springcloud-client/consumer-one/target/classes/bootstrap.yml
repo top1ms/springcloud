@@ -1,0 +1,17 @@
+server:
+  port:
+    10100
+spring:
+   application:
+     name: consumer-one
+   profiles :
+     active : native
+
+
+
+
+
+
+
+
+

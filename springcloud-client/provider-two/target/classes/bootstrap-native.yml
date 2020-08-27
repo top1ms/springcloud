@@ -1,0 +1,16 @@
+spring:
+  cloud:
+    config:
+      name: mybatis
+      profile: native
+      label: master
+      discovery:
+        enabled: true
+        service-id: service-center
+
+eureka:
+  instance:
+    preferIpAddress: true
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:10000/eureka

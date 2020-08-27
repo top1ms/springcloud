@@ -1,0 +1,31 @@
+spring:
+  cloud:
+    config:
+      name: mybatis
+      profile: native
+      label: master
+      discovery:
+        enabled: true
+        service-id: service-center
+
+eureka:
+  instance:
+    preferIpAddress: true
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:10000/eureka
+dubbo:
+  application:
+    name:  dubbo-provider
+    version: 1.0.0
+  provider:
+    port: 4444
+
+  protocal:
+    host: 127.0.0.1
+    accesslog: true
+    transporter: servlet
+
+  registry:
+    name: dubbo-registry
+    address: redis://127.0.0.1:6379

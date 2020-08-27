@@ -1,0 +1,27 @@
+spring:
+  cloud:
+    config:
+      server:
+        prefix: /config
+        bootstrap: true
+        native:
+          searchLocations: file:./config
+
+
+eureka:
+  instance:
+    preferIpAddress : true
+  client:
+    registerWithEureka: true
+    fetchRegistry: false
+    initialInstanceInfoReplicationIntervalSeconds: 1000
+    serviceUrl:
+#      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
+#       defaultZone: http://${eureka.instance.hostname}/eureka/
+       defaultZone: http://127.0.0.1:10000/eureka/
+
+
+management:
+  security:
+    enable: false
+

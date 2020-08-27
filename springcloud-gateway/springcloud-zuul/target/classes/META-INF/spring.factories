@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.zms.springcloud.gateway.zuul.OneConfiguration,\
+com.zms.springcloud.gateway.zuul.TwoConfiguration
+  
