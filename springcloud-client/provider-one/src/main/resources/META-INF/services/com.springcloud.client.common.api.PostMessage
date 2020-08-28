@@ -1,3 +1,4 @@
 main=com.zms.springcloud.client.common.api.PostMessageMain
 adaptive=com.zms.springcloud.client.common.api.PostMessageAdaptive
 stub=com.zms.springcloud.client.common.api.PostMessageStub
+stubs=com.zms.springcloud.client.common.api.PostMessageStubs

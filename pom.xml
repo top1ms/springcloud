@@ -23,6 +23,9 @@
         <module>springcloud-config</module>
         <module>springcloud-rigistryConfiguration</module>
         <module>springcloud-gateway</module>
+        <module>springcloud-netty</module>
+        <module>springcloud-netty-client</module>
+        <module>springcloud-common</module>
     </modules>
 
 

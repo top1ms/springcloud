@@ -10,11 +10,14 @@
         <module name="springcloud-registry" />
         <module name="provider-two" />
         <module name="springcloud-config" />
-        <module name="springcloud-zuul" />
         <module name="consumer-one" />
-        <module name="springcloud-rigistryConfiguration" />
+        <module name="springcloud-zuul" />
+        <module name="springcloud-common" />
         <module name="consumer-two" />
+        <module name="springcloud-netty-server" />
         <module name="provider-one" />
+        <module name="springcloud-netty-client" />
+        <module name="springcloud-rigistryConfiguration" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">

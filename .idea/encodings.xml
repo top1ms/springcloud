@@ -6,8 +6,11 @@
     <file url="file://$PROJECT_DIR$/springcloud-client/consumer-two/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-client/provider-one/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-client/provider-two/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-common/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-config/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-gateway/springcloud-zuul/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-netty/springcloud-netty-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-netty/springcloud-netty-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-registry/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-rigistryConfiguration/src/main/java" charset="UTF-8" />
   </component>
