@@ -9,6 +9,7 @@ import java.net.InetSocketAddress;
 import java.nio.ByteBuffer;
 import java.nio.channels.ServerSocketChannel;
 import java.nio.channels.SocketChannel;
+import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -36,18 +37,19 @@ public class NioServerClient {
                 socketChannels.add(socketChannel);
             }
 
-//
-//            for(SocketChannel socket:socketChannels){
-//                socket.configureBlocking(false);
-//                byteBuffer.flip();
-//                int effective = socket.read(byteBuffer);
-//                if(effective!=0) {
-//                    String content = StandardCharsets.UTF_8.decode(byteBuffer).toString();
-//                    LOGGER.info("收到客户端消息:"+content);
-//                }else{
-//                    LOGGER.info("当前未收到客户端消息,数据正在准备中");
-//                }
-//            }
+
+            for(SocketChannel socket:socketChannels){
+                socket.configureBlocking(false);
+                int effective = socket.read(byteBuffer);
+                if(effective!=0) {
+                    String content = StandardCharsets.UTF_8.decode(byteBuffer).toString();
+//                    byteBuffer.flip();
+                    byteBuffer.clear();
+                    LOGGER.info("收到客户端消息:"+content);
+                }else{
+                    LOGGER.info("当前未收到客户端消息,数据正在准备中");
+                }
+            }
         }
 
 
